@@ -277,15 +277,15 @@ Text GLabel 7550 3450 0    39   BiDi ~ 0
 SDA
 Text GLabel 7550 3250 0    39   BiDi ~ 0
 CS
-Text GLabel 7550 3150 0    39   BiDi ~ 0
+Text GLabel 7550 2750 0    39   BiDi ~ 0
 INT2
-Text GLabel 7550 3050 0    39   BiDi ~ 0
+Text GLabel 7550 2850 0    39   BiDi ~ 0
 INT1
 Text GLabel 7550 2950 0    39   BiDi ~ 0
 SCx
-Text GLabel 7550 2850 0    39   BiDi ~ 0
+Text GLabel 7550 3050 0    39   BiDi ~ 0
 SDx
-Text GLabel 7550 2750 0    39   BiDi ~ 0
+Text GLabel 7550 3150 0    39   BiDi ~ 0
 SDO-SA0
 Wire Wire Line
 	5850 4250 5850 4450
